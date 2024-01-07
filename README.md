@@ -2,34 +2,34 @@
 ## About
 👋 Hey there! I'm Norman Chen and I'm currently second year undergraduate Software Engineering student at the University of Waterloo.
 
-💻 I am passionate about all things computer science, technology, and its potential to solve real-world problems with innovative solutions. I am interested about leveraging the power of AI/ML and quantitative finance in real-world scenarios, and I hope to learn more about these fields!
+💻 I'm deeply passionate about all aspects of computer science and technology, driven by the potential to tackle real-world challenges through innovative problem-solving. My primary focus lies in leveraging the capabilities of machine learning and distributed systems to create impactful solutions!
 
 💬 If you'd like to chat further, feel free to send me a message or shoot me an email at njchen@uwaterloo.ca! Thank you for taking the time to learn a little bit about me!
 ## Contact
 <a href="https://www.linkedin.com/in/normanjchen/">![LinkedIn](https://img.shields.io/badge/Norman%20Chen-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="mailto:njchen@uwaterloo.ca">![Outlook](https://img.shields.io/badge/njchen-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-<a href="https://www.instagram.com/norman.chenn/">![Instagram](https://img.shields.io/badge/norman.chenn-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-![Discord](https://img.shields.io/badge/njchen-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<!--<a href="https://www.instagram.com/norman.chenn/">![Instagram](https://img.shields.io/badge/norman.chenn-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>-->
+<!--![Discord](https://img.shields.io/badge/njchen-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)-->
 
 ## Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<!--![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)-->
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 <!--![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)-->
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 <!--![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)-->
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -38,7 +38,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)-->
 
 ## Stats
 ![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normanchenn&theme=github_dark)
