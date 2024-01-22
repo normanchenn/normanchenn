@@ -1,6 +1,6 @@
 # Norman Chen
 ## About
-👋 Hey there! I'm Norman Chen and I'm currently second year undergraduate Software Engineering student at the University of Waterloo.
+👋 Hey there! I'm Norman Chen and I'm currently a second year undergraduate Software Engineering student at the University of Waterloo.
 
 💻 I'm deeply passionate about all aspects of computer science and technology, driven by the potential to tackle real-world challenges through innovative problem-solving. My primary focus lies in leveraging the capabilities of machine learning and distributed systems to create impactful solutions!
 
