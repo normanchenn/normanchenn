@@ -43,8 +43,8 @@
 <!--![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)-->
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)-->
 
-## Stats
-![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normanchenn&theme=github_dark)
+<!-- ## Stats -->
+<!-- ![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normanchenn&theme=github_dark) -->
 <!--![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=normanchenn&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=normanchenn&theme=dark)-->
 
