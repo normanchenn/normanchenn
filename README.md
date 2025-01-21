@@ -1,11 +1,9 @@
-Hey there, I'm Norman! 👋
+Hey, I'm Norman!
 
-I'm a Computer Science student at the University of Waterloo interested in learning everything there is about distributed systems and databases!
+I'm a Computer Science student at the University of Waterloo interested in distributed system and database problems.
 
 Currently interning at Cockroach Labs as a Software Engineer Intern working on the SQL query execution and optimization engines.
 
-Some things I've worked with:
-- **Languages:** Go, Python, C++, SQL
-- **Technologies:** PostgreSQL, ZooKeeper, Kubernetes, AWS
+Previously interned at Shopify under the Database Platform working on their distributed coordination services.
 
-You can find me on [linkedin.com/in/normanjchen](https://www.linkedin.com/in/normanjchen/) or email me at [njchen@uwaterloo.ca](mailto:njchen@uwaterloo.ca)!
+You can find me on [linkedin.com/in/normanjchen](https://www.linkedin.com/in/normanjchen/) and reach me at [njchen@uwaterloo.ca](mailto:njchen@uwaterloo.ca).
